@@ -1,0 +1,212 @@
+﻿Diagnose log at 2021-11-19T12:07:17Z
+
+Executable: C:\Program Files\Git\mingw64\libexec\git-core\git-credential-manager-core.exe
+Version: 2.0.567+3047faf390
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22000)
+Reading environment variables... OK
+ Variables:
+PROCESSOR_ARCHITEW6432=AMD64
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=云潇的计算机
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\zhaoyunxiao\OneDrive
+ChocolateyLastPathUpdate=132808532680361274
+WT_PROFILE_ID={574e775e-4f2a-5b96-ac1e-a2962a402336}
+POSH_GIT_ENABLED=False
+ChocolateyToolsLocation=C:\Program Files
+TMP=C:\Users\ZHAOYU~1\AppData\Local\Temp
+PROCESSOR_REVISION=a505
+AZ_ENABLED=False
+HOMEPATH=\Users\zhaoyunxiao
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\ZHAOYU~1\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\zhaoyunxiao\AppData\Local
+MSYSTEM=MINGW64
+TERM=cygwin
+GOPATH=C:\Users\zhaoyunxiao\go
+ProgramW6432=C:\Program Files
+USERDOMAIN=云潇的计算机
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\zhaoyunxiao\bin;C:\Program Files\WindowsApps\Microsoft.PowerShell_7.2.0.0_x64__8wekyb3d8bbwe;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\LLVM\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Intel\Intel(R) Memory and Storage Tool\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\Go\bin;C:\Users\zhaoyunxiao\AppData\Local\Microsoft\WindowsApps;C:\Users\zhaoyunxiao\AppData\Local\GitHubDesktop\bin;C:\Users\zhaoyunxiao\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Users\zhaoyunxiao\go\bin
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+TMPDIR=C:\Users\ZHAOYU~1\AppData\Local\Temp
+PSModulePath=C:\Users\zhaoyunxiao\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\windowsapps\microsoft.powershell_7.2.0.0_x64__8wekyb3d8bbwe\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=16
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+WT_SESSION=ee497247-54e6-4809-8726-59faf73aac79
+WSLENV=WT_SESSION::WT_PROFILE_ID
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+CONDA_PROMPT_MODIFIER=False
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+POWERLINE_COMMAND=oh-my-posh
+HOME=C:\Users\zhaoyunxiao
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\云潇的计算机
+USERPROFILE=C:\Users\zhaoyunxiao
+SystemRoot=C:\WINDOWS
+USERDOMAIN_ROAMINGPROFILE=云潇的计算机
+APPDATA=C:\Users\zhaoyunxiao\AppData\Roaming
+HOMEDRIVE=C:
+USERNAME=赵云潇
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+OneDriveConsumer=C:\Users\zhaoyunxiao\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\zhaoyunxiao\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\zhaoyunxiao\AppData\Local\Temp\d7d04a4392931be013b0ac49'... OK
+Reading from temporary file 'C:\Users\zhaoyunxiao\AppData\Local\Temp\d7d04a4392931be013b0ac49'... OK
+Deleting temporary file 'C:\Users\zhaoyunxiao\AppData\Local\Temp\d7d04a4392931be013b0ac49'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\zhaoyunxiao
+UserDataDirectoryPath: C:\Users\zhaoyunxiao\.gcm
+GetCurrentDirectory(): C:\Users\zhaoyunxiao\yunxiaozhao.github.io
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking basic networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:13038/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+Testing with IHttpClientFactory created HTTP client...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:13040/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.34.0.windows.1'
+Locating current repository... OK
+Git repository at 'C:/Users/zhaoyunxiao/yunxiaozhao.github.io/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=true
+file:C:/Program Files/Git/etc/gitconfig	core.editor="C:\\Program Files\\Microsoft VS Code\\bin\\code" --wait
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager-core
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Program Files/Git/etc/gitconfig	https.https://github.com.proxy=socks5://127.0.0.1:10808
+file:C:/Program Files/Git/etc/gitconfig	http.https://github.com.proxy=socks5://127.0.0.1:10808
+file:C:/Users/zhaoyunxiao/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/zhaoyunxiao/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/zhaoyunxiao/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/zhaoyunxiao/.gitconfig	filter.lfs.required=true
+file:C:/Users/zhaoyunxiao/.gitconfig	user.name=赵云潇
+file:C:/Users/zhaoyunxiao/.gitconfig	user.email=zhao.yunxiao@outlook.com
+file:C:/Users/zhaoyunxiao/.gitconfig	fetch.prune=false
+file:C:/Users/zhaoyunxiao/.gitconfig	pull.rebase=true
+file:C:/Users/zhaoyunxiao/.gitconfig	http.sslbackend=openssl
+file:C:/Users/zhaoyunxiao/.gitconfig	http.proxy=http://localhost:10809
+file:C:/Users/zhaoyunxiao/.gitconfig	credential.helper=
+file:C:/Users/zhaoyunxiao/.gitconfig	credential.helper=manager
+file:C:/Users/zhaoyunxiao/.gitconfig	credential.helper=
+file:C:/Users/zhaoyunxiao/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe
+file:C:/Users/zhaoyunxiao/.gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Users/zhaoyunxiao/.gitconfig	https.proxy=http://localhost:10809
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/yunxiaozhao/yunxiaozhao.github.io.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\zhaoyunxiao\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\zhaoyunxiao\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
